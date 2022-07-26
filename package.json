@@ -1,0 +1,22 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWITI0301/recipe-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AWITI0301/recipe-api/issues"
+  },
+  "homepage": "https://github.com/AWITI0301/recipe-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
